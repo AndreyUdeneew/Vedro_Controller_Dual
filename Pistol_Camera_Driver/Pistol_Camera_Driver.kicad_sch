@@ -5976,6 +5976,12 @@
 		(uuid "266187ef-d40c-498d-b765-64acde74d197")
 	)
 	(junction
+		(at 52.07 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29843d88-8f09-4b2d-81a2-ec3f1e7e5f8e")
+	)
+	(junction
 		(at 137.16 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6060,10 +6066,22 @@
 		(uuid "4ba5566a-a657-4cb1-b9f1-8b3b8a1032ae")
 	)
 	(junction
+		(at 60.96 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f5b61ea-3626-45f1-b62d-ecb48665ddb4")
+	)
+	(junction
 		(at 135.89 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "506342d5-3c24-4434-a144-db5046b7df7e")
+	)
+	(junction
+		(at 52.07 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5274702c-807d-4aed-bfd4-4db2ba68194d")
 	)
 	(junction
 		(at 176.53 34.29)
@@ -6366,6 +6384,12 @@
 		(uuid "c5e6b54e-5485-4f0e-ada7-fa984a95663d")
 	)
 	(junction
+		(at 60.96 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8b0aba6-e89e-4b7e-82c3-f4d60ba6e096")
+	)
+	(junction
 		(at 224.79 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6610,6 +6634,16 @@
 			(type default)
 		)
 		(uuid "03f34200-2dd5-4c29-87c3-aeb468cc16d9")
+	)
+	(wire
+		(pts
+			(xy 60.96 57.15) (xy 60.96 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "040427c4-1fc7-43e8-9bbb-719915382d35")
 	)
 	(wire
 		(pts
@@ -6893,6 +6927,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 52.07) (xy 60.96 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "136bbcdb-b8fb-407c-93ee-47b3d1dce8bc")
+	)
+	(wire
+		(pts
 			(xy 203.2 81.28) (xy 201.93 81.28)
 		)
 		(stroke
@@ -7123,6 +7167,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 54.61) (xy 69.85 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c63ad1f-3b6f-4744-b096-b8a976f651ed")
+	)
+	(wire
+		(pts
 			(xy 154.94 91.44) (xy 158.75 91.44)
 		)
 		(stroke
@@ -7233,6 +7287,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 49.53) (xy 60.96 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2010f8ce-119a-4d44-968b-a76b135b0379")
+	)
+	(wire
+		(pts
 			(xy 189.23 46.99) (xy 190.5 46.99)
 		)
 		(stroke
@@ -7250,6 +7314,16 @@
 			(type default)
 		)
 		(uuid "21723cfa-0090-4f28-9083-95cf8f2fccc7")
+	)
+	(wire
+		(pts
+			(xy 60.96 45.72) (xy 52.07 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22993a81-224a-4d4c-ac06-fe79b089115a")
 	)
 	(wire
 		(pts
@@ -7350,6 +7424,16 @@
 			(type default)
 		)
 		(uuid "26130c3b-ee88-46f8-9ebf-5f90b47080ea")
+	)
+	(wire
+		(pts
+			(xy 52.07 54.61) (xy 60.96 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "269f6810-b4cd-4cae-a469-d8be77702957")
 	)
 	(wire
 		(pts
@@ -7753,6 +7837,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 57.15) (xy 60.96 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38586b9c-1b26-41d5-ac15-9ad172abdd94")
+	)
+	(wire
+		(pts
 			(xy 219.71 39.37) (xy 218.44 39.37)
 		)
 		(stroke
@@ -8050,6 +8144,16 @@
 			(type default)
 		)
 		(uuid "44e7451c-7d76-48e2-9742-901a78d9138f")
+	)
+	(wire
+		(pts
+			(xy 60.96 52.07) (xy 60.96 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44fd5a26-19e9-4922-a267-21e037a009d9")
 	)
 	(wire
 		(pts
@@ -9003,6 +9107,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 54.61) (xy 52.07 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "776d97c4-6aea-4b1f-838d-c296d914a3eb")
+	)
+	(wire
+		(pts
 			(xy 104.14 167.64) (xy 104.14 168.91)
 		)
 		(stroke
@@ -9483,6 +9597,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 45.72) (xy 52.07 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d0561ca-d9e3-4c7d-98b7-b3d76abeea19")
+	)
+	(wire
+		(pts
 			(xy 189.23 41.91) (xy 190.5 41.91)
 		)
 		(stroke
@@ -9823,6 +9947,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 54.61) (xy 62.23 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a9f473f-bbdb-4c74-ab1c-cea1960a9b00")
+	)
+	(wire
+		(pts
 			(xy 224.79 97.79) (xy 227.33 97.79)
 		)
 		(stroke
@@ -10003,6 +10137,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 49.53) (xy 60.96 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5e93247-439a-4884-8243-e607a53d5fe5")
+	)
+	(wire
+		(pts
 			(xy 129.54 26.67) (xy 135.89 26.67)
 		)
 		(stroke
@@ -10100,6 +10244,16 @@
 			(type default)
 		)
 		(uuid "aa3d9340-d73e-4d9c-a384-5d86ba857e3b")
+	)
+	(wire
+		(pts
+			(xy 69.85 52.07) (xy 69.85 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa680824-a2c3-403c-a504-87e8b2d9622a")
 	)
 	(wire
 		(pts
@@ -10853,7 +11007,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 55.88) (xy 52.07 50.8)
+			(xy 52.07 55.88) (xy 52.07 54.61)
 		)
 		(stroke
 			(width 0)
@@ -10893,7 +11047,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 40.64) (xy 52.07 48.26)
+			(xy 52.07 40.64) (xy 52.07 45.72)
 		)
 		(stroke
 			(width 0)
@@ -15625,6 +15779,75 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 67.31 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c501882-0044-46a2-88c5-ac4169f63321")
+		(property "Reference" "J3"
+			(at 67.31 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 67.31 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+			(at 67.31 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 67.31 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 67.31 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "04d7e60a-67bf-4f6f-a1fa-c2ed93314c5e")
+		)
+		(pin "2"
+			(uuid "6eb8691f-a6b4-435e-9924-3473b23a5919")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -23592,6 +23815,75 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 74.93 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdbb0463-9e6c-41e5-854a-bd1dd9552f25")
+		(property "Reference" "J5"
+			(at 74.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 74.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+			(at 74.93 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 74.93 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d511696-ab70-4deb-afa2-869189986bc3")
+		)
+		(pin "2"
+			(uuid "8925b468-f6e7-4581-b4ec-60a2eb4536c6")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "J5")
 					(unit 1)
 				)
 			)
